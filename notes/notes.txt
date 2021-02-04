@@ -1,0 +1,4 @@
+Simple notes for project:
+
+Create a dedicated GitHub for this project
+Create wiki with test plan notes and user stories
