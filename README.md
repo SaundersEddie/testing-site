@@ -18,6 +18,7 @@ This page was put together to allow users to learn and test primarily using Sele
 The basic idea for this page came together when putting together a basic JavaScript and Selenium testing framework. There were sites listed for testing against and often I found the documentation lacking or the site was gone entirely, this is an open project so other people can request to add items to it.
 
 ## Usage
+https://saunderseddie.github.io/testing-site/
 
 ## Technology
 
