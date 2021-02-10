@@ -4,13 +4,9 @@
 
 console.log ("Our Script has run!")
 
-document.getElementById("id-myBtn").addEventListener("click", function() {
+document.getElementById("id-myBtn").addEventListener("click", function(e) {
+    e.preventDefault();
     console.log ("MyBtn has been clicked!!!");
     document.getElementById("myText").innerHTML="My button has been clicked!!";
 });
 
-
-document.getElementById("goHome").addEventListener("click", function() {
-    console.log ("Home has been clicked");
-    document.getElementById("myText").innerHTML="Go Home!!";
-});
